@@ -9,7 +9,7 @@ function compare(a, b) {
     }
   }
 
-  console.log(compare(3, 8));
+  console.log(compare(8, 3));
 
   console.log(compare(-2, -8));
 
