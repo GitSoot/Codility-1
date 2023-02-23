@@ -4,6 +4,8 @@ This JavaScript function evaluates two numbers, providing a concise comparison a
 
 ## Code Utilization
 
+Uncomment the code block in the test.js file to confirm its functionality. Replace the numbers to find out which number is greater. 
+
 `console.log(compare(8, 3));   // "8 is greater than 3"
 console.log(compare(-2, -8)); // "-2 is greater than -8"
 console.log(compare(2, 2));   // "2 is equal to 2"
