@@ -5,3 +5,5 @@ function countChars(str) {
   }
   return Array.from(counts, ([char, count]) => [char, count]);
 }
+
+console.log(countChars("abracadabra"));
