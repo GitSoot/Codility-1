@@ -6,6 +6,7 @@ function countChars(str) {
   return Array.from(counts, ([char, count]) => [char, count]);
 }
 
-console.log(countChars("abracadabra"));
-console.log(countChars("Harry Potter"));
-console.log(countChars("Baker Street"));
+//Uncomment code to run test
+// console.log(countChars("abracadabra"));
+// console.log(countChars("Harry Potter"));
+// console.log(countChars("Baker Street"));
