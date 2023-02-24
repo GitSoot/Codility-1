@@ -7,3 +7,4 @@ function countChars(str) {
 }
 
 console.log(countChars("abracadabra"));
+console.log(countChars("Harry Potter"));
